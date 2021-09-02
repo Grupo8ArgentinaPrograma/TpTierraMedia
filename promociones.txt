@@ -1,0 +1,10 @@
+porcentual,promo porcentual uno,10,Avsentura
+absoluta,promo Absoluta uno,60,Avesntura
+axb,pormo axb dos,0,Avesntura
+porcentual,promo porcentual uno,10,Avenstura
+absoluta,promo Absoluta uno,60,Avenstura
+axb,pormo axb dos,0,Aventura
+porcentual,promo porcentual uno,10,Avenstura
+absoluta,promo Absoluta uno,60,Avesntura
+axb,pormo axb dos,0,Asentura
+

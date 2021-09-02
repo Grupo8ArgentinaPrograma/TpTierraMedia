@@ -1,0 +1,5 @@
+Uno,30,33,10,A2ventura
+dos,10,10,10,A2ventura
+Tres,30,30,30,A2ventura
+Cuatro,4,40,40,A2ventura
+Cinco,30,11,50,A2ventura
